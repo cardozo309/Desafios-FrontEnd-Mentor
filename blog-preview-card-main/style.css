@@ -1,0 +1,81 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Figtree', sans-serif;
+    background-color: #F4D04E;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px;
+    border-radius: 15px;
+}
+
+.card{
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.card .logo{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.text{
+    margin-top: 10px;
+}
+
+.subtitle{
+    background-color: #F4D04E;
+    max-width: max-content;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.date{
+    color: gray;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.title{
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+.textInt{
+    margin-top: 15px;
+    color: gray;
+    font-size: 14px;
+}
+
+.avatar{
+    display: flex;
+    margin-top: 15px;
+}
+
+.ico{
+    width: 34px;
+}
+
+.user{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}

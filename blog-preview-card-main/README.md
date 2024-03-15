@@ -1,61 +1,61 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+![Visualização do design do desafio de codificação do cartão de visualização do blog](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por conferir este desafio de codificação front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) desafios ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**Para fazer este desafio, você precisa de um conhecimento básico de HTML e CSS.**
 
-## The challenge
+## O desafio
 
-Your challenge is to build out this blog preview card and get it looking as close to the design as possible.
+Seu desafio é construir este cartão de visualização do blog e fazer com que pareça o mais próximo possível do design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-Your users should be able to:
+Seus usuários devem ser capazes de:
 
-- See hover and focus states for all interactive elements on the page
+- Veja os estados de foco e foco de todos os elementos interativos na página
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+Quer algum apoio no desafio? [Join our community](https://www.frontendmentor.io/community) e faça perguntas no canal **#help**.
 
-## Where to find everything
+## Onde encontrar tudo
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Sua tarefa é desenvolver o projeto de acordo com os designs dentro do `/design` pasta. Você encontrará uma versão móvel e uma versão desktop do design. 
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+Os designs estão em formato estático JPG. Usar JPGs significa que você precisará usar seu bom senso para estilos como `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Se desejar que os arquivos de design (fornecemos versões Sketch e Figma) inspecionem o design com mais detalhes, você pode [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+Todos os ativos necessários para este projeto estão no `/assets` pasta. As imagens já são exportadas para o tamanho de tela correto e otimizadas.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Também incluímos arquivos de fontes variáveis ​​e estáticas para as fontes necessárias para este projeto. Você pode optar por vincular ao Google Fonts ou usar os arquivos de fontes locais para hospedar as fontes você mesmo. Observe que removemos os arquivos de fontes estáticas para as espessuras de fonte que não são necessárias para este projeto.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+Há também um `style-guide.md` arquivo contendo as informações necessárias, como paleta de cores e fontes.
 
-## Building your project
+## Construindo seu projeto
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável. Abaixo está um processo sugerido, mas não parece necessário seguir estas etapas:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+1. Inicialize seu projeto como um repositório público em [GitHub](https://github.com/). A criação de um repositório tornará mais fácil compartilhar seu código com a comunidade se você precisar de ajuda. Se você não tiver certeza de como fazer isso, [have a read-through of this Try Git resource](https://try.github.io/).
+2. Configure seu repositório para publicar seu código em um endereço da web. Isso também será útil se você precisar de ajuda durante um desafio, pois você pode compartilhar o URL do seu projeto com o URL do seu repositório. Existem várias maneiras de fazer isso e fornecemos algumas recomendações abaixo.
+3. Examine os designs para começar a planejar como você abordará o projeto. Esta etapa é crucial para ajudá-lo a pensar no futuro para que as classes CSS criem estilos reutilizáveis.
+4. Antes de adicionar qualquer estilo, estruture seu conteúdo com HTML. Escrever seu HTML primeiro pode ajudar a concentrar sua atenção na criação de conteúdo bem estruturado.
+5. Escreva os estilos básicos do seu projeto, incluindo estilos de conteúdo gerais, como `font-family` and `font-size`.
+6. Comece a adicionar estilos ao topo da página e vá descendo. Só passe para a próxima seção quando estiver satisfeito por ter concluído a área em que está trabalhando.
 
-## Deploying your project
+## Implantando seu projeto
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+Conforme mencionado acima, há muitas maneiras de hospedar seu projeto gratuitamente. Nossos anfitriões recomendados são:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Você pode hospedar seu site usando uma dessas soluções ou qualquer um de nossos outros provedores confiáveis. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
 ## Create a custom `README.md`
 
