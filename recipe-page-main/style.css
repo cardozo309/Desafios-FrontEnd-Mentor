@@ -78,3 +78,24 @@ h3{
 span{
     font-weight: bold;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.underLine{
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.mLeft{
+    padding-left: 25px;
+    font-family: "Outfit", sans-serif;
+}
+
+.tdColor{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
